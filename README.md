@@ -1,2 +1,2 @@
 # C-
-first test project with C#
+first traning projects with C#
